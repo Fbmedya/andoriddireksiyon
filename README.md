@@ -16,3 +16,8 @@
 2. **Mobil Uygulama (Android Telefonda Çalışır)**
 
 
+## ** Uyarı **
+
+**Bu sistmei geliştirebilirsiniz lakin paralı şekilde satamazsınız veya ticari amaca çeviremezsiniz!**
+
+## Bir yıldızını alırım :)
