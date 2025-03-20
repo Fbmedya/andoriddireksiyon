@@ -15,14 +15,4 @@
 1. **Sunucu (Bilgisayar veya Raspberry Pi'de Çalışır)**
 2. **Mobil Uygulama (Android Telefonda Çalışır)**
 
-🔻 **Kurulumu aşağıdaki adımları takip ederek yapabilirsiniz!**
 
----
-
-## **📌 1️⃣ Sunucu Kurulumu (PC/Raspberry Pi)**  
-
-### **📌 Adım 1: Python ve Gerekli Kütüphaneleri Kurun**  
-Sunucu tarafını çalıştırmak için aşağıdaki komutları terminale girin:
-
-```sh
-pip install flask
